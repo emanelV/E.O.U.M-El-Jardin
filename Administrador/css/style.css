@@ -1,0 +1,15 @@
+.app .app-slidebar, .app .app-nav, .app .app-header{
+
+    background-color: white !important;
+}
+
+.app-sidebar__toggle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.app-sidebar__toggle::before{
+ display: none;
+}
